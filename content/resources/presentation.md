@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c814aa43-95b0-f0e7-0971-4edb9ff18a9d
 resourcetype: Document
 title: Report from Our Conversations on Neighborhood Visioning
 uid: 8ceb9bab-29fb-bb05-da1e-989955af0444
