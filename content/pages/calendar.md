@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, activities, and
+  key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 2625c6d5-a27c-4535-17c8-fae9994290f8
 ---
 
-The calendar for this class is presented both in the table below and in its original format here. ([PDF]({{< baseurl >}}/resources/calendar))
+The calendar for this class is presented both in the table below and in its original format here. ({{% resource_link e1a8d0a8-fb45-1bbc-b655-fd2b29ae0c03 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
