@@ -1,45 +1,44 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  goals, content, and structure.
+draft: false
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: afa0d561-b688-8185-f3dc-881f18fd5764
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-Prerequisite
-------------
+## Prerequisite
 
-11.370 (Brownfields Policy and Practice) or permission of instructor.
+[*11.370 Brownfields Policy and Practice*](https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/) or permission of instructor.
 
-Goal
-----
+## Goal
 
 Through site-specific client-based work, this course will allow students to materially contribute to redevelopment decision-making regarding a former inner-city industrial site. The course will focus on generating and analyzing pragmatic redevelopment scenarios given the issues of brownfields and environmental contamination, community preferences, regulatory constraints and economic realities.
 
-Setting / Client
-----------------
+## Setting / Client
 
 The site in question is currently the leased home of Pearl Meat Packing, Inc. located at 196 Quincy Street in Boston's Dorchester neighborhood. At present, Pearl Meats is an ongoing concern but they will soon be vacating the 3-acre property and returning the site back to the owner who is seeking to sell the property. In parallel, a coalition of local CDCs and community groups are positioning themselves to obtain site control and redevelop the site as a mixed use project. A 3-acre parcel of land within Boston's city limits is a rare commodity. Accordingly, the community groups and their constituents are approaching this redevelopment opportunity with keen interest.
 
 The community groups, who are also our clients, are:
 
-*   Dorchester Bay economic development corporation
-*   Quincy Geneva community development corporation
-*   Project R.I.G.H.T.
+- Dorchester Bay economic development corporation
+- Quincy Geneva community development corporation
+- Project R.I.G.H.T.
 
 Over the fall of 2006, our clients will be contracting with an architect and undertaking a community-based planning exercise that focuses on the neighborhood surrounding Pearl Meats. The focus of 11.362 will be for the students to act as a resource to our clients to promote our client’s participation in the planning process. Details of our proposed effort are described below.
 
-Course Content / Structure
---------------------------
+## Course Content / Structure
 
 As with any brownfield site that is poised for redevelopment, there is a tension between community expectations and myriad practical redevelopment constraints. At present, the gap is relatively large given three inter-related realities:
 
-1.  little is known about the site and its underlying conditions;
-2.  the nature and extent of community desires is poorly understood; and
-3.  a formal market analysis has yet to be performed on this property.
+1. little is known about the site and its underlying conditions;
+2. the nature and extent of community desires is poorly understood; and
+3. a formal market analysis has yet to be performed on this property.
 
 Accordingly, our Scope of Work for 11.362 will consist of the following phases all of which will benefit from regular client feedback.
 
