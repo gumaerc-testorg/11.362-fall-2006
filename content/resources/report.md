@@ -5,6 +5,7 @@ file: /courses/11-362-environmental-management-practicum-brownfield-redevelopmen
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Report from Our Conversations on Neighborhood Visioning
 uid: 1d6e6553-d70b-6e65-e641-32e4c41deac0
 ---
 Example of a completed final report for the course.
-
