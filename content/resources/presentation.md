@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of a completed community presentation for the course.
 file: /courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/8ceb9bab29fbbb05da1e989955af0444_presentation.pdf
+file_size: 718484
 file_type: application/pdf
 learning_resource_types:
 - Projects
