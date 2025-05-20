@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The schedule of course topics, activities, and key dates.
-file: /ol-ocw-studio-app/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/e1a8d0a8fb451bbcb655fd2b29ae0c03_calendar.pdf
+file: /courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/e1a8d0a8fb451bbcb655fd2b29ae0c03_calendar.pdf
 file_size: 23883
 file_type: application/pdf
 learning_resource_types: []
